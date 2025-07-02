@@ -11,7 +11,7 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
       <div className="container mx-auto px-4 py-8">
         <nav className="flex justify-between items-center mb-12">
-          <h1 className="text-2xl font-bold text-blue-900">URL Shortener</h1>
+          {/* <h1 className="text-2xl font-bold text-blue-900">URL Shortener</h1> */}
           <div className="flex gap-4">
             {user ? (
               <Link to="/dashboard">
