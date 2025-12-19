@@ -4,8 +4,6 @@
   <img src="https://socialify.git.ci/cs23b2009/url-shortner/image?custom_description=A+modern+URL+shortening+service+built+with+React%2C+TypeScript%2C+Supabase%2C+and+Tailwind+CSS.&description=1&language=1&name=1&owner=1&theme=Light" alt="project-image">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/cs23b2009/url-shortner" alt="License Badge">
 </p>
 <p align="center">
   🌐 <strong>Website:</strong> <a href="https://url-shortner-dxbc.onrender.com" target="_blank">https://url-shortner-dxbc.onrender.com</a>
