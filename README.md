@@ -124,10 +124,6 @@ url-shortner/
 
 ---
 
-<h2>🤝 Contributing</h2>
-
-<p>Contributions are welcome! Feel free to open issues or submit pull requests.</p>
-
 <ol>
   <li>Fork the project</li>
   <li>Create your feature branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
@@ -136,14 +132,3 @@ url-shortner/
   <li>Open a Pull Request</li>
 </ol>
 
----
-
-<h2>📝 License</h2>
-
-<p>This project is open source and available under the MIT License.</p>
-
----
-
-<div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/cs23b2009">cs23b2009</a></p>
-</div>
